@@ -1,6 +1,6 @@
 # scroll-animation
 
-This is simple rotation menu design 
+This is simple scroll animation
 
 ## Table of contents
 
@@ -17,8 +17,6 @@ This is simple rotation menu design
   - [Author](#author)
   - [Source](#source)
   - [Licence](#license)
-
-![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-gif.gif?raw=true)
 
 ## Installing and Getting started
 
@@ -39,8 +37,6 @@ No specific prerequisites
 I just use a local server to develop this
 
 ### Screen Capture
-![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-1.png?raw=true)
-![Screen Capture](https://github.com/kevinbdx35/my-dog-rotating-navigation/blob/main/screen-capture-2.png?raw=true)
 
 ## Api Reference
 
@@ -48,15 +44,13 @@ No API
 
 ## Links
 
-[Demo](https://kevinbdx35.github.io/my-dog-rotating-navigation/)
+[Demo](https://kevinbdx35.github.io/scroll-animation/)
 
 ## Author
 
 ## Source
 
 - Idea from Brad Traversy and Florin Pop
-- Picture from Unsplash
-
 
 ## License
 
